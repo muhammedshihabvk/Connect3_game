@@ -2,7 +2,9 @@
 
 A hobby game project in native java android 
 
-![Image description](Screenshot_1621545239.png)
-![Image description](Screenshot_1621545246.png)
-![Image description](Screenshot_1621545253.png)
-![Image description](Screenshot_1621545259.png)
+
+<img align="left" width="350" height="640" src="Screenshot_1621545239.png">
+<img align="left" width="350" height="640" src="Screenshot_1621545239.png">
+<img align="left" width="350" height="640" src="Screenshot_1621545246.png">
+<img align="left" width="350" height="640" src="Screenshot_1621545253.png">
+<img align="left" width="350" height="640" src="Screenshot_1621545259.png">
